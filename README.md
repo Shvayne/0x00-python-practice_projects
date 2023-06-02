@@ -18,7 +18,9 @@ To get started with these projects, follow the instructions below:
    ```
 
 2. Install the necessary dependencies. The required libraries and packages for each project are listed in the project's file itself.
-
+   ``
+      pip install graphics.py
+   ``
 3. Open the project file you are interested in (`face.pyw` or `triangle.pyw`) using your preferred Python IDE or text editor.
 
 4. Read the project's instructions and comments within the file to understand its requirements and functionalities.
