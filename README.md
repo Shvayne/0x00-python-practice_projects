@@ -6,7 +6,9 @@ Welcome to the **0x00-python-practice_projects** repository! This repository con
 
 1. **face.pyw**: this project introduces you to python graphics by teaching you to draw a basic smiley. please note for this and other graphic related files, you would need to download zelle's graphics module and install it through your system's command line
 
-2. **triangle.pyw**: This project explores dives further into python graphics by teaching you to draw a basic triangle using mouse input.
+2. **triangle.pyw**: This project dives further into python graphics by teaching you to draw a basic triangle using mouse input.
+3. **back_and_forth.py**: this project introduces you to the world of gifs :)
+4. **back_and_forth_v2.py**: this project is an improvement on back_and_forth.py and introduces new functions to make the gif run seamlessly
 
 ## Getting Started
 
@@ -56,7 +58,7 @@ Please note that all contributions will be reviewed, and your adherence to the p
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code, modify it, and distribute it as per the terms of the license.
+This repository is licensed under the [MIT License] Feel free to use the code, modify it, and distribute it as per the terms of the license.
 
 ## Contact
 
