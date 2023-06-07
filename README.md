@@ -11,6 +11,8 @@ Welcome to the **0x00-python-practice_projects** repository! This repository con
 4. **back_and_forth_v2.py**: this project is an improvement on back_and_forth.py and introduces new functions to make the gif run seamlessly
 5. **change_rect.py**: this project draws a circle at first and then after a mouse click, draws a rectangle
 6. **back_and_forth_v3.py**: this project is and upgrade of the v2 back and forth program. it uses elaborate functions and produces lengthier animations
+7. **ball_bounce.py**: this projects dives further into animations by showing you how to bounce a ball randomly off the edges of the window using methods from the random and time modules
+8. **change_rect_color.py**: this project uses compound operators to choose between 3 colors to paint a rectangle with
 ## Getting Started
 
 To get started with these projects, follow the instructions below:
