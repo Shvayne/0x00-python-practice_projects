@@ -13,6 +13,7 @@ Welcome to the **0x00-python-practice_projects** repository! This repository con
 6. **back_and_forth_v3.py**: this project is and upgrade of the v2 back and forth program. it uses elaborate functions and produces lengthier animations
 7. **ball_bounce.py**: this projects dives further into animations by showing you how to bounce a ball randomly off the edges of the window using methods from the random and time modules
 8. **change_rect_color.py**: this project uses compound operators to choose between 3 colors to paint a rectangle with
+9. **web_page.py**: this project introduces the user to the basics of webpage creation with python. this function takes text, puts it in a file and directly displays the file in your web browser. it uses the open function from the webbrowser module to start the new page in your web browser.
 ## Getting Started
 
 To get started with these projects, follow the instructions below:
