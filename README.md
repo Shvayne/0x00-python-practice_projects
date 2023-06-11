@@ -14,6 +14,7 @@ Welcome to the **0x00-python-practice_projects** repository! This repository con
 7. **ball_bounce.py**: this projects dives further into animations by showing you how to bounce a ball randomly off the edges of the window using methods from the random and time modules
 8. **change_rect_color.py**: this project uses compound operators to choose between 3 colors to paint a rectangle with
 9. **web_page.py**: this project introduces the user to the basics of webpage creation with python. this function takes text, puts it in a file and directly displays the file in your web browser. it uses the open function from the webbrowser module to start the new page in your web browser.
+10. **web_page_v2.py**: this is an improvement to web_page.py. using the format method to create a more personalized user experience
 ## Getting Started
 
 To get started with these projects, follow the instructions below:
